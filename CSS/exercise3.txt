@@ -1,0 +1,5 @@
+Sepcify that the oveflowing text in the <div> element should not be visible, not even with scrolling.
+
+position the<h1> element 50px from the left, and 100px from the top, relative to the HTML page.
+
+Position the <h1> element relatibe to the browser window. 50px from the top, and 50px from the right.

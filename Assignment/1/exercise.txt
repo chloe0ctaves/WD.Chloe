@@ -1,0 +1,7 @@
+1. Make a webpage in html and make the beautiful webpage please?
+2. Use font tag and their attributes.
+3. use paragraph, horizontal tag and break tag make your page awesome.
+4. web page should be use text formatting tags(all).
+5. write the comment from start to end n html web page.
+6. make background and text color brighter and readable.
+7. text format tag (bold, italic, mark, quotation, heading tag, metatag, title tag(showing any name in tab

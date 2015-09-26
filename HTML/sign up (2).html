@@ -1,0 +1,48 @@
+<!doctype html>
+<head>
+<title> Sign up Form</title>
+</head>
+<body bgcolor="lightblue">
+
+<!--Start The Form-->
+<from action="index.html"method="post">
+<fieldset>
+<legend>Personal information:</legend>
+<font size="4">
+First Name:<input type="text" name="firstname" maxlength=20 size=25
+placeholder="FirstName">
+<br/>
+Last Name: <input type="text" name="lastname" maxlength=20 size=25
+placeholder="Last Name"> <br/>
+</font>
+
+Address : <textarea cols='20' row='6' name='address' placeholder="address">
+</textarea> <br/>
+</fieldset>
+
+<fieldset>
+<legend>Personal information:</legend>
+<!--start select tag here-->
+City:
+<select name="city">
+<option value="Auckland">Auckland</option>
+<option value="Wellington">Wellington</option>
+<option value="Hasting">Hasting</option>
+<option value="Christchurch">Christchurch</option>
+</select>
+</fieldset>
+
+courses: <br/>
+<input type="checkbox" name="IT Diploma">IT Diploma<br>
+<input type="checkbox" name="Coockery Diploma">Coockery Diploma<br>
+
+Branch: <br/>
+<input type="radio" name="branch">IT <br>
+<input type="radio" name="branch">Coockery <br>
+<br>
+
+<input type="file" name="hello">
+<input type="button" value="Register">
+</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+Home excersice
+
+1.Make a web page with form and create the contact us web page.
+Fileds should be used (firstname.lastname/password/confirm password/address/comment or message box/ and submit button.
+
+2. Create a table and showing the data in the table. change the coor for all the table data or records filed. Use all the attributes.
+
+3. Create on more web page and using ordered and unordered list with form.
+
+4. Use image tag and hyperlink tags.

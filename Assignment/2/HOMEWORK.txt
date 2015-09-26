@@ -1,0 +1,7 @@
+CSS:HOMEWORK
+
+1. Create a Register form with form Tag and Make your form look great with CSS
+
+2. Set the width 100% and 100px in your CSS page on h1 Tag, Table Tag.
+
+3. Set the <div> tag of style in CSS using Border/Margin/Padding of Text styling
